@@ -44,5 +44,5 @@ void BuildBankingApp()
     {
         Console.WriteLine("Invalid choice, please choose 1 or 2");
     }
-
 }
+BuildBankingApp();
